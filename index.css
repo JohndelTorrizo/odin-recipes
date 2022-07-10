@@ -1,0 +1,13 @@
+body { 
+    margin: 10px;
+    background-color: bisque;
+    }
+
+h1 { 
+    font-family: 'Franklin Gothic Medium';
+    }
+
+img {
+    height: 50%;
+    width: fit-content;
+    }
