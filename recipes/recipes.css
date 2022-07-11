@@ -1,0 +1,28 @@
+body{
+    background-color: bisque;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns:3fr 1fr;
+    grid-column-gap: 3px ;
+}
+
+.wrapper > div {
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+.heading {
+    font-size:x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+   inline-size: 50%;
+  
+}
+
+div{
+    margin-top: 10px;
+}
